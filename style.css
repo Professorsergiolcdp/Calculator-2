@@ -1,13 +1,13 @@
-.main {
-  height: 103px;
-  width: 226px;
-  margin: 12px;
+.main input {
+  margin: auto;
+  height: 50px;
+  width: 103px;
   border: 2px solid black;
 }
 .numeric-keys {
   margin: 5px;
 }
-.numeric-keys input {
+.numeric-keys button {
   height: 24px;
   width: 54px;
   margin: 2px;
